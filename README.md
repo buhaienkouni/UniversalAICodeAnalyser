@@ -80,7 +80,7 @@ The project follows a multi-layered architecture:
 
 ## License
 
-[Your license information]
+MIT License
 
 ## Contributors
 
